@@ -1,0 +1,5 @@
+[user]
+	name = Eric Moritz
+	email = eric@themoritzfamily.com
+[credential]
+	helper = cache --timeout=3600
